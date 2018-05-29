@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica_datos_entre_activitys_suma</string>
+    <string name="sumar">sumar</string>
+    <string name="resultado">El resultado de la suma es</string>
+    <string name="ingreso1">Ingrese el primer numero</string>
+    <string name="ingreso2">Ingrese el segundo numero</string>
+</resources>
